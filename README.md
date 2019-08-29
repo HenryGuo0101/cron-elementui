@@ -13,7 +13,9 @@
 Dependencies:
 
 vue-2.5.2  -support 2.X
+
 element-ui-2.12.0  -support 2.X
+
 cron-parser-2.13.0  -support 2.X
 
 
