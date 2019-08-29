@@ -22,11 +22,12 @@ element-ui-2.12.0  -support 2.X
 
 cron-parser-2.13.0  -support 2.X
 
-    版本参考自：http://www.easysb.cn/2019/04/210.html 基于iview实现的中文版本；基于该版本进行如下3点重构：
+    版本参考自：http://www.easysb.cn/2019/04/210.html 基于iview实现的中文版本[若需预览功能，请参考此网站]；基于该版本进行如下重构：
     1、把iView 替换成 Element-UI
     2、国际化 (将中文翻译为英文，现今版本只支持英文)
     3、修复该版本的表达式执行预览的BUG（BUG描述：表达式0 */3 * * * ? 执行预览前台显示不正确）
-
+    4、样式优化
+    
 ## Build Setup
 
 ``` bash
